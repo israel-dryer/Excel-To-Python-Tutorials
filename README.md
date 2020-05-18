@@ -7,4 +7,5 @@ The table below contains the link to the tutorial as well as the description of 
 |--|--|
 |[Parsing Data From HTML String](Parse-Data-From-HTML-String/Parsing-Data-From-HTML-String.ipynb)| Text to Columns, Find and Replace, Left(), Right(), Mid() |
 |[Return Unique Values in Row](https://github.com/israel-dryer/Excel-To-Python-Tutorials/blob/master/Remove-Duplicate-Values/Remove-Duplicate-Values.ipynb) | Delete duplicate values |
+|[Range to Image](https://github.com/israel-dryer/Excel-To-Python-Tutorials/blob/master/Range-To-Image/Save-Excel-Range-As-Image.ipynb)| Convert an Excel range into an image file |
 
